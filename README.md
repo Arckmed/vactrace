@@ -1,5 +1,5 @@
 # vactrace
-an attempt to find VAC while Steam is processing it using DynamoRIO
+an attempt to find VAC while Steam is processing it using DynamoRIO. Based on memtrace_x86 sample.
 # how to use
 Generate the DynamoRIO samples, and use the code provided here in some sample project.
 
